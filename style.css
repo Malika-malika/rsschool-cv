@@ -1,0 +1,9 @@
+body{
+    max-width: 1200px;
+    margin: 0 auto;
+    font-size: 18px;
+}
+.title{
+    color: #0000ff;
+    font-size: 30px;
+}
